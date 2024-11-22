@@ -1,2 +1,2 @@
 # Projects
-Where i put my College Projects
+Where i put my previous Projects and Javascript learning
