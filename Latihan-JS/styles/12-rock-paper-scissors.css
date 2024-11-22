@@ -1,0 +1,38 @@
+body{
+   background-color: black;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+}
+
+.rock-btn{
+   padding: 50px;
+   border-radius: 50%;
+   border-color: white;
+   border-width: 5px;
+   background-color: black;
+}
+
+.paper-btn{
+   padding: 50px;
+   border-radius: 50%;
+   border-color: white;
+   border-width: 5px;
+   background-color: black;
+}
+
+.scissors-btn{
+   padding: 50px;
+   border-radius: 50%;
+   border-color: white;
+   border-width: 5px;
+   background-color: black;
+}
+
+.move-icon{
+   height: 50px;
+}
+
+.js-result{
+   margin-top: 50px;
+}
